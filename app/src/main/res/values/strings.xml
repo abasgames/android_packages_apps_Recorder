@@ -17,8 +17,6 @@
     <string name="app_name">Recorder</string>
 
     <!-- Common actions -->
-    <!-- Share action for notification -->
-    <string name="share">Share</string>
     <!-- Stop action for notification -->
     <string name="stop">Stop</string>
     <!-- Play action -->
